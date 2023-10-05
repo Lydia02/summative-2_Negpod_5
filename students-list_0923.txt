@@ -1,0 +1,6 @@
+l.ojoawo@alustudent.com,50,lmay2023
+t.maridadi@alustudent.com,45,tmay2023
+s.habiyambe@alustudent.com,59,smay2023
+i.lina@alustudent.com,23,imay2023
+p.imanzi@alustudent.com,25,pmay2023
+c.asingizwe@alustudent.com,23,cmay2023
