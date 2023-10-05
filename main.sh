@@ -10,7 +10,7 @@ while true; do
     echo "4. Update Student Record"
     echo "5. Exit"
     
-    # Prompt the user to enter their choice
+    #Next Prompt the user to enter their choice
     read -p "Enter your choice (1/2/3/4/5): " choice
 
     # Use a case statement to handle user's choice
