@@ -20,5 +20,6 @@ scp -o StrictHostKeyChecking=no "$source_dir.tar.gz" "$remote_username@$remote_h
 # Remove the local tarball after copying
 rm "$source_dir.tar.gz"
 
+#Displaying backup of $source_dir to $remote_destination on $remote_host completed successfully!
 echo "Backup of $source_dir to $remote_destination on $remote_host completed successfully!"
 
