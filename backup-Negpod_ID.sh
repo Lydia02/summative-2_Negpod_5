@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Define a variable for remote server connection
+# Define  variables  for remote server connection
 remote_host="2f05c1f8800b.3be8ebfc.alu-cod.online"
 remote_username="2f05c1f8800b"
 remote_password="d4a1d225d0abda9549d8"
