@@ -46,26 +46,26 @@ The ALU Student Registration System is a set of shell scripts designed to manage
 **1. Clone the repository to your local machine**:
 
   
-    git clone https://github.com/yourusername/alu-student-registration.git
+    git clone https://github.com/yourusername/summative-2_Negpod_5.git
 
 
 
 **2. Navigate to the project directory:**
 
 
-      cd alu-student-registration
+      cd summative-2_Negpod_5
 
  
-**3. Navigate to the project directory:**
+**3. Check the files in the project directory:**
 
 
 
-    cd alu-student-registration
+    ls
 
 
 **4. Make the script files executable:**
 
-    chmod +x main.sh select-emails.sh move-to-directory.sh backup-Negpod_ID.sh
+    chmod +x main.sh select-emails.sh 
 
 **## Usage**
 
@@ -78,24 +78,14 @@ To use the ALU Student Registration System, follow these steps:
 
 This script will display a menu where you can create, view, delete, update student records, and more.
 
-**b. Extract and save student email addresses:**
+**2. Extract and save student email addresses:**
   
   
       ./select-emails.sh
 
 This script will create a file named student-emails.txt containing the extracted email addresses.
 
-**2. Organize project files:**
 
-      
-    ./move-to-directory.sh
-
-This script will create a directory named **negpod_id-q1** and move relevant project files into it.
-
-**3. Backup the project directory to a remote server:**
-
-  
-    ./backup-Negpod_ID.sh
 
 ## Testing
 
@@ -107,14 +97,16 @@ Follow these steps to test the ALU Student Registration System:
    - Select option `1` to create a student record.
    - Provide the required information (email, age, and student ID).
 
-   ![Create Student Record](images/create-student.png)
+
+   <img width="960" alt="create" src="https://github.com/Lydia02/summative-2_Negpod_5/assets/37791436/6b03b447-7df1-4e64-b69f-1fe73fab3aed">
 
 2. **View All Students:**
 
    - Run the main script by executing `./main.sh`.
    - Select option `2` to view all students.
 
-   ![View All Students](images/view-students.png)
+
+<img width="960" alt="view" src="https://github.com/Lydia02/summative-2_Negpod_5/assets/37791436/05623df0-28b7-4abd-bdd5-cda6d1a1ee09">
 
 3. **Delete a Student Record:**
 
@@ -122,7 +114,8 @@ Follow these steps to test the ALU Student Registration System:
    - Select option `3` to delete a student record.
    - Enter the student ID to be deleted.
 
-   ![Delete Student Record](images/delete-student.png)
+   <img width="960" alt="delete" src="https://github.com/Lydia02/summative-2_Negpod_5/assets/37791436/9177225c-82d5-4744-81e0-9140b185504a">
+
 
 4. **Update a Student Record:**
 
@@ -130,30 +123,25 @@ Follow these steps to test the ALU Student Registration System:
    - Select option `4` to update a student record.
    - Enter the student ID to be updated and provide new email and age.
 
-   ![Update Student Record](images/update-student.png)
+  <img width="960" alt="update" src="https://github.com/Lydia02/summative-2_Negpod_5/assets/37791436/4ffb0c7e-b2c4-4dda-9ffa-963b1e7114ab">
+
 
 5. **Extract Student Emails:**
 
    - Run the `select-emails.sh` script by executing `./select-emails.sh`.
    - Student email addresses will be saved in `student-emails.txt`.
 
-   ![Extract Student Emails](images/extract-emails.png)
+ 
+<img width="960" alt="student emails" src="https://github.com/Lydia02/summative-2_Negpod_5/assets/37791436/feba2560-b956-43c1-b3d3-e0b4e697dff6">
 
-6. **Organize Project Files:**
+6. **Extract Select Emails:**
 
-   - Run the `move-to-directory.sh` script by executing `./move-to-directory.sh`.
-   - Project files will be organized in the `negpod_id-q1` directory.
+   - Run the `select-emails.sh` script by executing `./select-emails.sh`.
+   - Student email addresses will be saved in `student-emails.txt`.
 
-   ![Organize Project Files](images/organize-files.png)
 
-7. **Backup to Remote Server:**
+<img width="960" alt="select-email" src="https://github.com/Lydia02/summative-2_Negpod_5/assets/37791436/dc9c506e-f12b-489e-8d0c-15ad17620e26">
 
-   - Run the `backup-Negpod_ID.sh` script by executing `./backup-Negpod_ID.sh`.
-   - Project files will be backed up to a remote server.
-
-   ![Backup to Remote Server](images/backup-remote.png)
-
-These steps provide a visual guide on how to test each feature of the ALU Student Registration System.
 
 
 ## Conclusion
@@ -166,12 +154,12 @@ Contributions to this project are welcome! If you have suggestions for improveme
 
 ## Authors
 
-- [Collette Asingizwe](https://github.com/collette-asing)
-- [Stella Habiyambere](https://github.com/stella-hab)
-- [Placide Imanzi](https://github.com/placide-i)
-- [Lina Iratwe](https://github.com/lina-iratwe)
-- [Thierry Maridadi](https://github.com/thierry-maridadi)
-- [Lydia Ojoawo](https://github.com/lydia-ojoawo)
+- [Collette Asingizwe](https://github.com/jasingizwe)
+- [Stella Habiyambere](https://github.com/Stella-Remember)
+- [Placide Imanzi](https://github.com/pimanzi)
+- [Lina Iratwe](https://github.com/Ms-Lina)
+- [Thierry Maridadi](https://github.com/maridadithierry)
+- [Lydia Ojoawo](https://github.com/Lydia02)
 
 ## License
 
