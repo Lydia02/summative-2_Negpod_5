@@ -5,7 +5,7 @@
 
 - [Description](#description)
 - [Features](#features)
-- [Built With](#Built With)
+- [Built-With](#Built-With)
 - [Requirements](#requirements)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
@@ -47,9 +47,10 @@ The ALU Student Registration System is a set of shell scripts designed to manage
 
 1. Clone the repository to your local machine:
 
-   ```bash
+   ```
    git clone https://github.com/yourusername/alu-student-registration.git
-```bash
+```
+
 2. Navigate to the project directory:
 ```bash
 cd alu-student-registration
