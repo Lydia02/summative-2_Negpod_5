@@ -31,6 +31,14 @@ The ALU Student Registration System is a set of shell scripts designed to manage
 - Extract and save student email addresses to a file named `student-emails.txt`.
 - Organize and move project files to a separate directory.
 
+  ## Question 2
+# Automation with Linux
+
+In Question 2, we created a set of shell scripts to automate the organization and backup of project files to a remote server.
+
+
+
+
 ## Built With
 
 - Bash Shell
@@ -85,6 +93,21 @@ This script will display a menu where you can create, view, delete, update stude
 
 This script will create a file named student-emails.txt containing the extracted email addresses.
 
+## QUESTION 2 USAGE
+
+### 1. Move Files to a Directory
+
+The `move-to-directory.sh` script is designed to organize project files by moving them to a directory with the name `negpod_id-q1`. It moves all files created in Question 1 into this directory.
+
+### 2. Backup to a Remote Server
+
+The `backup-Negpod_ID.sh` script allows us to create a backup of the `negpod_id-q1` directory and transfer it to a remote server. This script is designed to work with the provided remote server details.
+
+
+#### Usage
+
+- Run `./move-to-directory.sh` to organize project files.
+- Run `./backup-Negpod_ID.sh` to create a backup on the remote server.
 
 
 ## Testing
