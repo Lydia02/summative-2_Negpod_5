@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Start an infinite loop for the student registration system
+# Step 1:  Start an infinite loop for the student registration system
 while true; do
     clear
     echo "ALU Student Registration System"
