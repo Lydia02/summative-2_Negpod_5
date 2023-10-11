@@ -32,12 +32,11 @@ The ALU Student Registration System is a set of shell scripts designed to manage
 - Extract and save student email addresses to a file named `student-emails.txt`.
 - Organize and move project files to a separate directory.
 
-  ## Question 2
+
+## Question 2
 # Automation with Linux
 
-In Question 2, we created a set of shell scripts to automate the organization and backup of project files to a remote server.
-
-
+In Question 2, we have developed a set of shell scripts to automate the organization and backup of project files to a remote server. This section provides an overview of the two scripts: `move-to-directory.sh` and `backup-Negpod_ID.sh`.
 
 
 ## Built With
@@ -98,17 +97,18 @@ This script will create a file named student-emails.txt containing the extracted
 
 ### 1. Move Files to a Directory
 
-The `move-to-directory.sh` script is designed to organize project files by moving them to a directory with the name `negpod_id-q1`. It moves all files created in Question 1 into this directory.
+The `move-to-directory.sh` script is designed to enhance project file organization. It creates a dedicated directory with the name `negpod_id-q1` and moves all files created in Question 1 into this directory. This simplifies the management of project files and ensures they are stored in a structured manner
 
 ### 2. Backup to a Remote Server
 
 The `backup-Negpod_ID.sh` script allows us to create a backup of the `negpod_id-q1` directory and transfer it to a remote server. This script is designed to work with the provided remote server details.
 
 
-#### Usage
+**###3. Make the script file executable**
 
-- Run `./move-to-directory.sh` to organize project files.
-- Run `./backup-Negpod_ID.sh` to create a backup on the remote server.
+    
+    chmod +x move-to-directory.sh
+    
 
 
 ## Testing
@@ -167,10 +167,21 @@ Follow these steps to test the ALU Student Registration System:
 <img width="960" alt="select-email" src="https://github.com/Lydia02/summative-2_Negpod_5/assets/37791436/dc9c506e-f12b-489e-8d0c-15ad17620e26">
 
 
+## TESTING QUESTION 2
+
+1. Run the script to organize project files:
+
+./move-to-directory.sh
+
+#### Usage
+
+- Run `./move-to-directory.sh` to organize project files.
+- Run `./backup-Negpod_ID.sh` to create a backup on the remote server.
+
 
 ## Conclusion
 
- ALU Student Registration System is a versatile command-line tool that streamlines the management of student records for the Bachelor of Software Engineering programat ALU. With a range of powerful features, it provides an efficient and organized solution for handling student information
+The ALU Student Registration System is a versatile command-line tool that streamlines the management of student records for the Bachelor of Software Engineering programat ALU. With a range of powerful features, it provides an efficient and organized solution for handling student information
 
 
 ## Contribution
