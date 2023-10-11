@@ -17,7 +17,7 @@
 - [License](#license)
 
 ## Description
-## QUESTION 1
+## QUESTION 1 and 2
 # ALU Student Registration System
 
 The ALU Student Registration System is a set of shell scripts designed to manage student records for the Bachelor of Software Engineering program at ALU (African Leadership University). This project includes scripts for creating, viewing, deleting, and updating student records, as well as extracting and storing student email addresses.
