@@ -1,5 +1,5 @@
 # BSE Group Coding Session Summative
-## Group : Group Coding Negpod 5
+## Negpod Group : Group Coding Negpod 5
 
 ## Table of Contents
 
