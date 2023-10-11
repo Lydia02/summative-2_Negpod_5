@@ -140,7 +140,7 @@ Follow these steps to test the ALU Student Registration System:
    <img width="960" alt="delete" src="https://github.com/Lydia02/summative-2_Negpod_5/assets/37791436/9177225c-82d5-4744-81e0-9140b185504a">
 
 
-4. **Update a Student Record:**
+4. **Update Students Records:**
 
    - Run the main script by executing `./main.sh`.
    - Select option `4` to update a student record.
