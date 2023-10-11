@@ -76,7 +76,7 @@ In Question 2, we created a set of shell scripts to automate the organization an
 
     chmod +x main.sh select-emails.sh 
 
-**## Usage
+**## Usage**
 
 To use the ALU Student Registration System, follow these steps:
 
