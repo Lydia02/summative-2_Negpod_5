@@ -7,7 +7,7 @@ if [ ! -d "$target_dir" ]; then
 fi
 
 # Move all four files created in Question 1 to the target directory
-mv main.sh Students-list_0923.txt select-emails.sh student-emails.txt "$target_dir"
+mv main.sh students-list_0923.txt select-emails.sh student-emails.txt "$target_dir"
 
 echo "Files moved to $target_dir successfully!"
 
