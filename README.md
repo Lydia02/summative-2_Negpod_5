@@ -173,10 +173,15 @@ Follow these steps to test the ALU Student Registration System:
 
 ./move-to-directory.sh
 
-#### Usage
+<img width="960" alt="move" src="https://github.com/Lydia02/summative-2_Negpod_5/assets/37791436/a8db7ea4-8d26-4345-9155-41eb30566db0">
 
-- Run `./move-to-directory.sh` to organize project files.
-- Run `./backup-Negpod_ID.sh` to create a backup on the remote server.
+2. Run `./backup-Negpod_ID.sh` to create a backup on the remote server.
+
+3. Check if the new folder **`negpod_id-q1`** has been created by using this command ` ls negpod_id-q1`
+
+   <img width="960" alt="q1" src="https://github.com/Lydia02/summative-2_Negpod_5/assets/37791436/d9622b1d-7f01-4816-83ce-e8ffeb3486da">
+
+
 
 
 ## Conclusion
