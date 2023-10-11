@@ -169,7 +169,6 @@ Follow these steps to test the ALU Student Registration System:
 
 
 ## Conclusion
-Registration System is command-line tool for managing student records efficiently. It simp
 
  ALU Student Registration System is a versatile command-line tool that streamlines the management of student records for the Bachelor of Software Engineering programat ALU. With a range of powerful features, it provides an efficient and organized solution for handling student information
 
