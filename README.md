@@ -5,19 +5,18 @@
 
 - [Description](#description)
 - [Features](#features)
-- [Built-With](#built-With)
+- [Built With](#built-with)
 - [Requirements](#requirements)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
-  - [Usage](#usage)
+  - [Usage](#Usage)
 - [Testing](#Testing)
-- [Testing question 2](#Testing question_2)
 - [Contribution](#contribution)
 - [Authors](#authors)
 - [License](#license)
 
 ## Description
-## QUESTION 1 and 2
+## QUESTION 1
 # ALU Student Registration System
 
 The ALU Student Registration System is a set of shell scripts designed to manage student records for the Bachelor of Software Engineering program at ALU (African Leadership University). This project includes scripts for creating, viewing, deleting, and updating student records, as well as extracting and storing student email addresses.
@@ -36,7 +35,7 @@ The ALU Student Registration System is a set of shell scripts designed to manage
 ## Question 2
 # Automation with Linux
 
-In Question 2, we have developed a set of shell scripts to automate the organization and backup of project files to a remote server. This section provides an overview of the two scripts: `move-to-directory.sh` and `backup-Negpod_ID.sh`.
+In Question 2, we have developed a set of shell scripts to automate the organization and backup of project files to a remote server. This section provides an overview of the two scripts: `move-to-directory.sh` and `backup-Negpod_5.sh`.
 
 
 ## Built With
@@ -75,7 +74,7 @@ In Question 2, we have developed a set of shell scripts to automate the organiza
 
     chmod +x main.sh select-emails.sh 
 
-**## Usage**
+## QUESTION 1 USAGE
 
 To use the ALU Student Registration System, follow these steps:
 
@@ -101,10 +100,10 @@ The `move-to-directory.sh` script is designed to enhance project file organizati
 
 ### 2. Backup to a Remote Server
 
-The `backup-Negpod_ID.sh` script allows us to create a backup of the `negpod_id-q1` directory and transfer it to a remote server. This script is designed to work with the provided remote server details.
+The `backup-Negpod_5.sh` script allows us to create a backup of the `negpod_id-q1` directory and transfer it to a remote server. This script is designed to work with the provided remote server details.
 
 
-**###3. Make the script file executable**
+### 3. Make the script file executable
 
     
     chmod +x move-to-directory.sh
@@ -169,19 +168,34 @@ Follow these steps to test the ALU Student Registration System:
 
 ## TESTING QUESTION 2
 
-1. Run the script to organize project files:
+## **1. Run the script to organize project files:**
 
-./move-to-directory.sh
+`./move-to-directory.sh`
+
 
 <img width="960" alt="move" src="https://github.com/Lydia02/summative-2_Negpod_5/assets/37791436/a8db7ea4-8d26-4345-9155-41eb30566db0">
 
-2. Run `./backup-Negpod_ID.sh` to create a backup on the remote server.
-
-3. Check if the new folder **`negpod_id-q1`** has been created by using this command ` ls negpod_id-q1`
-
-   <img width="960" alt="q1" src="https://github.com/Lydia02/summative-2_Negpod_5/assets/37791436/d9622b1d-7f01-4816-83ce-e8ffeb3486da">
 
 
+
+## **2. Run `./backup-Negpod_5.sh` to create a backup on the remote server**.
+
+   
+<img width="960" alt="backup" src="https://github.com/Lydia02/summative-2_Negpod_5/assets/37791436/df5bba0b-f4ee-4fc1-b7ce-23aa1f62966e">
+
+
+
+
+
+
+
+## **3. Check if the new folder **`negpod_id-q1`** has been created by using this command ` ls negpod_id-q1`**
+
+ <img width="960" alt="q1" src="https://github.com/Lydia02/summative-2_Negpod_5/assets/37791436/d9622b1d-7f01-4816-83ce-e8ffeb3486da">
+
+
+
+## 🎉 Hooray! We have a complete solution that simplifies student record management and automates file organization and backup.
 
 
 ## Conclusion
