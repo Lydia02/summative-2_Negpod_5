@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# This script extracts email addresses from a file named students-list_0923.txt
+# This script extracts all  email addresses from a file named students-list_0923.txt
 # and saves them to a file named student-emails.txt.
 
 # Use the 'awk' command to process the input file
