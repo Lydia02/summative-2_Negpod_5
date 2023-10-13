@@ -189,7 +189,7 @@ Follow these steps to test the ALU Student Registration System:
 
 
 
-## **3. Check if the new folder **`negpod_5-q1`** has been created by using this command ` ls negpod_id-q1`**
+## **3. Check if the new folder **`negpod_5-q1`** has been created by using this command ` ls negpod_5-q1`**
 
  <img width="960" alt="q1" src="https://github.com/Lydia02/summative-2_Negpod_5/assets/37791436/d9622b1d-7f01-4816-83ce-e8ffeb3486da">
 
