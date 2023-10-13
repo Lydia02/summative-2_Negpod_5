@@ -96,7 +96,7 @@ This script will create a file named student-emails.txt containing the extracted
 
 ### 1. Move Files to a Directory
 
-The `move-to-directory.sh` script is designed to enhance project file organization. It creates a dedicated directory with the name `negpod_id-q1` and moves all files created in Question 1 into this directory. This simplifies the management of project files and ensures they are stored in a structured manner
+The `move-to-directory.sh` script is designed to enhance project file organization. It creates a dedicated directory with the name `negpod_5-q1` and moves all files created in Question 1 into this directory. This simplifies the management of project files and ensures they are stored in a structured manner
 
 ### 2. Backup to a Remote Server
 
@@ -189,7 +189,7 @@ Follow these steps to test the ALU Student Registration System:
 
 
 
-## **3. Check if the new folder **`negpod_id-q1`** has been created by using this command ` ls negpod_id-q1`**
+## **3. Check if the new folder **`negpod_5-q1`** has been created by using this command ` ls negpod_id-q1`**
 
  <img width="960" alt="q1" src="https://github.com/Lydia02/summative-2_Negpod_5/assets/37791436/d9622b1d-7f01-4816-83ce-e8ffeb3486da">
 
