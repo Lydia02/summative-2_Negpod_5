@@ -197,6 +197,12 @@ Follow these steps to test the ALU Student Registration System:
 
 ## 🎉 Hooray! We have a complete solution that simplifies student record management and automates file organization and backup.
 
+## NOTE
+
+
+"negpod_id-q1" corrected to "negpod_5-q1."
+"./backup-Negpod_ID.sh" corrected to "./backup-Negpod_5.sh."
+Please ensure that these corrected file and directory names are used consistently throughout your project to avoid any confusion or issues with your scripts and project structure. 
 
 ## Conclusion
 
