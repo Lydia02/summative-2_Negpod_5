@@ -1,7 +1,7 @@
 #!/bin/bash
 # Moving 4 files from question 1
 # Check if the target directory exists, if not, create it
-target_dir="negpod_id-q1"
+target_dir="negpod_5-q1"
 if [ ! -d "$target_dir" ]; then
     mkdir "$target_dir"
 fi

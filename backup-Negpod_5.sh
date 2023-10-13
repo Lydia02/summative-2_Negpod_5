@@ -6,7 +6,7 @@ remote_username="2f05c1f8800b"
 remote_password="d4a1d225d0abda9549d8"
 
 # Define the source directory to be backed up
-source_dir="negpod_id-q1"
+source_dir="negpod_5-q1"
 
 # Define the destination directory on the remote server
 remote_destination="/summative/0923-2023S"
