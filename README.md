@@ -103,10 +103,10 @@ The `move-to-directory.sh` script is designed to enhance project file organizati
 The `backup-Negpod_5.sh` script allows us to create a backup of the `negpod_id-q1` directory and transfer it to a remote server. This script is designed to work with the provided remote server details.
 
 
-### 3. Make the script file executable
+### 3. Make the script files executable
 
     
-    chmod +x move-to-directory.sh
+    chmod +x move-to-directory.sh backup-Negpod_5.sh
     
 
 
